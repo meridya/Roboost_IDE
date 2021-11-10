@@ -1,35 +1,35 @@
 {
   "packages": [
     {
-           "help": {
-               "online": "http://www.Meridya.com"
-           },
-           "maintainer": "Meridya",
-           "name":"nuvoton",
-           "platforms": [
-               {
-                 "name": "SoSmart UNO",
-                 "architecture": "nuvoton",
-                 "version": "1.8.15",
-                 "category": "Arduino",
-                 "url": "https://raw.githubusercontent.com/meridya/Roboost_IDE/main/Arduino_nuvoton.tar.bz2?raw=true",
-                 "archiveFileName": "Arduino_nuvoton.tar.bz2",
-                 "boards": [
-                   {"name": " SoSmart NuMaker NUC131"},
-                   {"name": " SoSmart NuMaker M032BT"}
-                 ],
-                 "toolsDependencies": [
-                   {
-                     "packager": "arduino",
-                     "name": "arm-none-eabi-gcc",
-                     "version": "4.8.3-2014q1"
-                   }
-                 ]
-               }
-           ],
-           "tools": [],
-           "websiteURL": "http://www.meridya.com"
-       },
+            "help": {
+                "online": "http://www.meridya.com"
+            },
+            "maintainer": "Meridya",
+            "name":"Meridya",
+            "platforms": [
+                {
+                  "name": "NuMaker UNO",
+                  "architecture": "nuvoton",
+                  "version": "1.8.15",
+                  "category": "Arduino",
+                  "url": "https://raw.githubusercontent.com/meridya/Roboost_IDE/main/Arduino_nuvoton.tar.bz2?raw=true",
+                  "archiveFileName": "Arduino_nuvoton.tar.bz2",
+                  "boards": [
+                    {"name": "NuMaker NUC131"},
+                    {"name": "NuMaker M032BT"}
+                  ],
+                  "toolsDependencies": [
+                    {
+                      "packager": "arduino",
+                      "name": "arm-none-eabi-gcc",
+                      "version": "4.8.3-2014q1"
+                    }
+                  ]
+                }
+            ],
+            "tools": [],
+            "websiteURL": "http://www.nuvoton.com"
+        },
         {
       "name": "arduino",
       "maintainer": "Arduino",
