@@ -2,21 +2,21 @@
   "packages": [
     {
            "help": {
-               "online": "http://www.nuvoton.com"
+               "online": "http://www.Meridya.com"
            },
-           "maintainer": "Nuvoton",
+           "maintainer": "Meridya",
            "name":"nuvoton",
            "platforms": [
                {
-                 "name": "NuMaker UNO",
+                 "name": "SoSmart UNO",
                  "architecture": "nuvoton",
                  "version": "1.8.15",
                  "category": "Arduino",
                  "url": "https://raw.githubusercontent.com/meridya/Roboost_IDE/main/Arduino_nuvoton.tar.bz2?raw=true",
                  "archiveFileName": "Arduino_nuvoton.tar.bz2",
                  "boards": [
-                   {"name": "NuMaker NUC131"},
-                   {"name": "NuMaker M032BT"}
+                   {"name": " SoSmart NuMaker NUC131"},
+                   {"name": " SoSmart NuMaker M032BT"}
                  ],
                  "toolsDependencies": [
                    {
@@ -28,7 +28,7 @@
                }
            ],
            "tools": [],
-           "websiteURL": "http://www.nuvoton.com"
+           "websiteURL": "http://www.meridya.com"
        },
         {
       "name": "arduino",

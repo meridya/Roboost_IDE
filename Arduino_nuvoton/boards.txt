@@ -55,7 +55,7 @@
 #nuvoton_nano100.build.pid=0x003e
 #nuvoton_nano100.build.def=Nano100Series
 
-nuvoton_nuc131.name=NuMaker UNO NUC131
+nuvoton_nuc131.name=SoSmart NUC131
 nuvoton_nuc131.upload.tool=nulinkburn
 nuvoton_nuc131.upload.protocol=nuc-ba
 nuvoton_nuc131.upload.maximum_size=65536
@@ -93,7 +93,7 @@ nuvoton_nuc131.build.def=NUC131
 #nuvoton_nano102.build.pid=0x003e
 #nuvoton_nano102.build.def=Nano1X2Series
 
-nuvoton_m032bt.name=NuMaker UNO M032BT
+nuvoton_m032bt.name=SoSmart M032BT
 nuvoton_m032bt.upload.tool=nulinkburn
 nuvoton_m032bt.upload.protocol=nuc-ba
 nuvoton_m032bt.upload.maximum_size=524288
